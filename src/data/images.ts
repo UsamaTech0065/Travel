@@ -1,0 +1,17 @@
+export const LOCAL_IMAGES = {
+  heroHunza: '/src/assets/images/hero_hunza_karakoram_1795582951307.jpg',
+  skardu: '/src/assets/images/dest_skardu_shangrila_1795582951602.jpg',
+  fairyMeadows: '/src/assets/images/dest_fairy_meadows_1795582952659.jpg',
+  attabadPassu: '/src/assets/images/dest_attabad_passu_1795582952759.jpg',
+  naranKaghan: '/src/assets/images/dest_naran_saiful_muluk_1795582953490.jpg',
+  swatKalam: '/src/assets/images/dest_swat_kalam_1795582954163.jpg',
+  deosai: '/src/assets/images/dest_deosai_plains_1795582954198.jpg',
+  lahore: '/src/assets/images/dest_lahore_badshahi_1795582955608.jpg',
+  gwadarHingol: '/src/assets/images/dest_gwadar_hingol_1795582955274.jpg',
+  dubai: '/src/assets/images/dest_dubai_skyline_1795582954813.jpg',
+  cappadocia: '/src/assets/images/dest_turkey_cappadocia_1795582955613.jpg',
+  switzerland: '/src/assets/images/dest_switzerland_alps_1795582956241.jpg',
+  luxuryHotel: '/src/assets/images/hotel_luxury_mountain_1795583046779.jpg',
+  avatarWoman: '/src/assets/images/avatar_traveler_woman_1795582987563.jpg',
+  avatarMan: '/src/assets/images/avatar_traveler_man_1795582987281.jpg',
+} as const;

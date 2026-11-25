@@ -1,0 +1,6 @@
+{
+  "name": "Karakoram Voyages",
+  "description": "Premium travel agency platform showcasing Northern Pakistan expeditions, heritage tours, and curated international journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
