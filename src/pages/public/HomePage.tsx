@@ -134,7 +134,7 @@ export const HomePage: React.FC = () => {
   ];
 
   return (
-    <div ref={revealContainerRef} className="overflow-x-hidden">
+    <div ref={revealContainerRef} className="overflow-x-clip">
       {/* 1. Full-Screen Hero Section */}
       <section className="relative min-h-[92vh] flex items-center pt-24 pb-16 bg-[#102A43]">
         <div className="absolute inset-0 overflow-hidden">
